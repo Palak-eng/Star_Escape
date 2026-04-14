@@ -3971,7 +3971,7 @@ MonoBehaviour:
   - {fileID: 6916986793227834799}
   - {fileID: 4115628559316029226}
   - {fileID: 3774206619862775616}
-  patrolSpeed: 4
+  patrolSpeed: 2
   chaseSpeed: 4
   stoppingDistance: 0.1
 --- !u!1 &2224601912119786512
